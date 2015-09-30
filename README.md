@@ -2,7 +2,7 @@
 
 Elif Kinli
 Comp 20 - Assignment 1
-#Creating a personal website only using HTML and CSS
+Creating a personal website only using HTML and CSS
 
 *The work has been correctly implemented to my knowledge.
 
