@@ -1,0 +1,25 @@
+.menubar {
+	color: black;
+	text-align: right;
+	font-size: 90%;
+}
+
+.link {
+	font-family: Raleway;
+	display: inline-block;
+	color: black;
+	text-decoration: none;
+	background-color: none;
+	opacity: 0.6;
+}
+
+.content {
+	display: inline-block;
+}
+.column1 {
+	display: inline-block;
+}
+
+.bio {
+	background-color: gray;
+}
