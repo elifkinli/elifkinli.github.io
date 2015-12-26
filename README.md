@@ -1,11 +1,11 @@
-# elifkinli.github.io
+	# elifkinli.github.io
 
-Elif Kinli
-Comp 20 - Assignment 1
-Creating a personal website only using HTML and CSS
+	Elif Kinli's Personal Website 
 
-*The work has been correctly implemented to my knowledge.
+	Hours Spent : 5 
 
-Hours spent on the website: 5 hours
+	This project started as Comp 20 - Web Development's assignment where we were allowed to use only HTML and CSS. 
 
-Thank you to Ogul Girgin and Jade Chan with their help on redirecting the page!
+
+
+
