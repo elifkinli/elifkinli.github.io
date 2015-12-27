@@ -4,8 +4,12 @@
 
 	Hours Spent : 5 
 
-	This project started as Comp 20 - Web Development's 
-	assignment where we were allowed to use only HTML and CSS. 
+		I tried to use different techniques on each page to reflect 
+	my abilities. 
+
+	Homepage (index.html) : The hover effects are implemented solely 
+	through CSS. 
+
 
 
 
