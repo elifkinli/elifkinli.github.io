@@ -1,5 +1,75 @@
-.header {
-	background-color: lightblue;
-	color: white;
+@import url(https://fonts.googleapis.com/css?family=Roboto:500);
+
+html,
+body {
+  height: 100%;
+  background-color: lightgray;
 }
+
+body {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+}
+
+ul li,
+a {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  list-style-type: none
+}
+
+li {
+  margin: 5px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.bg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: gray url(../img/bio_photo.jpg) no-repeat center center;
+  background-size: cover;
+  transition: filter 1.5s;
+}
+
+.homepage-button {
+  margin-top: 5%;
+  margin-left: 5%;
+  padding: 20px 20px 40px 20px;
+  color: gray;
+  font-size: 18px;
+  border: 5px solid gray;
+  letter-spacing: 0.25em;
+  z-index: 999;
+  line-height: 1.5;
+  transition: all 2s;
+  height: 10%;
+}
+
+.homepage-button:hover + div {
+  filter: brightness(100%);
+  text-decoration: none;
+}
+
+.homepage-button:hover {
+  background-color: #D3D3D3;
+  opacity: 0.7;
+  border-color: #E0E0E0;
+  padding: 60px 60px 160px 60px;
+}
+
+.menu-content {
+  display:none;
+  text-decoration: none;
+  color: #323232;
+  font-size: 25px;
+}
+
+
 
