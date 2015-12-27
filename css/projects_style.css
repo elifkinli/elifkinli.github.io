@@ -1,0 +1,17 @@
+p {
+	text-align: left;
+}
+
+.row {
+	margin: 0px;
+	text-align: center;
+}
+
+.col-xs-4 {
+	padding: 20px 40px 0px 40px;
+}
+
+.project-title {
+	font-size: 40px;
+	padding: 80px 40px 80px 40px;
+}
